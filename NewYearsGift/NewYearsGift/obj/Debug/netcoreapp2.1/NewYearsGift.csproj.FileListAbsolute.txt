@@ -1,0 +1,11 @@
+D:\Projecks\NewYearsGift\NewYearsGift\bin\Debug\netcoreapp2.1\NewYearsGift.deps.json
+D:\Projecks\NewYearsGift\NewYearsGift\bin\Debug\netcoreapp2.1\NewYearsGift.runtimeconfig.json
+D:\Projecks\NewYearsGift\NewYearsGift\bin\Debug\netcoreapp2.1\NewYearsGift.runtimeconfig.dev.json
+D:\Projecks\NewYearsGift\NewYearsGift\bin\Debug\netcoreapp2.1\NewYearsGift.dll
+D:\Projecks\NewYearsGift\NewYearsGift\obj\Debug\netcoreapp2.1\NewYearsGift.csproj.CoreCompileInputs.cache
+D:\Projecks\NewYearsGift\NewYearsGift\obj\Debug\netcoreapp2.1\NewYearsGift.AssemblyInfoInputs.cache
+D:\Projecks\NewYearsGift\NewYearsGift\obj\Debug\netcoreapp2.1\NewYearsGift.AssemblyInfo.cs
+D:\Projecks\NewYearsGift\NewYearsGift\bin\Debug\netcoreapp2.1\NewYearsGift.pdb
+D:\Projecks\NewYearsGift\NewYearsGift\obj\Debug\netcoreapp2.1\NewYearsGift.csprojAssemblyReference.cache
+D:\Projecks\NewYearsGift\NewYearsGift\obj\Debug\netcoreapp2.1\NewYearsGift.dll
+D:\Projecks\NewYearsGift\NewYearsGift\obj\Debug\netcoreapp2.1\NewYearsGift.pdb
